@@ -7,29 +7,29 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aswinrajsubburaj&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <a href="https://www.linkedin.com/in/aswinraj-s-b08399219/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="44" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/aswinrajsubburaj">
+    <img src="https://skillicons.dev/icons?i=github" height="44" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="mailto:aswinraj.subburaj@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="44" alt="Email"/>
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aswinraj-s-b08399219/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:aswinraj.subburaj@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/aswinrajsubburaj">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <img src="https://img.shields.io/badge/Chennai,%20India-34A853?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
-</p>
+<p align="center">📍 Chennai, India</p>
 
 ---
 
 ### 👨‍💻 About Me
 
-**Java Developer with 2.5 years of experience** building production-grade backend services in **Java** and **Spring Boot**. At **Ford Motor Company** I design event-driven, fault-tolerant REST APIs that integrate enterprise systems (SAP CRM, Ford Pass) and run on **Google Cloud Run**. I focus on clean, well-tested code, solid system design, and reliable microservices.
+**Java Developer with 3 years of experience** building production-grade backend services in **Java** and **Spring Boot**. At **Ford Motor Company** I design event-driven, fault-tolerant REST APIs that integrate enterprise systems (SAP CRM, Ford Pass) and run on **Google Cloud Run**. I focus on clean, well-tested code, solid system design, and reliable microservices.
 
 - 🔭 Currently building **IMG Digital Services** — a distributed Spring Boot platform on GCP
+- 📨 Hands-on with **Docker**, **Kafka**, **RabbitMQ** and **event-streaming** architectures for decoupled, scalable systems
 - 🌱 Deepening my craft in **System Design**, **Distributed Systems** & **DSA**
 - 🛡️ I care about **fault tolerance, observability, and clean CI/CD**
 - 🎓 **B.E.**, Thiagarajar College of Engineering — **CGPA 9.01 / 10**
@@ -54,12 +54,12 @@
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat&logo=fastapi&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=flat&logo=apachekafka&logoColor=white)
 
-**Messaging, Caching & Data**
+**Messaging, Streaming, Caching & Data**
 
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![Google Pub/Sub](https://img.shields.io/badge/Google%20Pub%2FSub-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)
 
@@ -90,33 +90,12 @@
 ### 🚀 Featured Projects
 
 **🔹 IMG Digital Services — Backend API Platform** · *Ford*
-Distributed Spring Boot service integrating **Ford Pass** and **SAP CRM**. Built a fault-tolerant store-and-forward flow with a PostgreSQL staging store that durably buffers validated records and reconciles to the SAP PO API on recovery via a Cloud Scheduler job — eliminating data loss during downstream outages. Adds Redis caching and Pub/Sub event publishing.
-`Java` · `Spring Boot` · `PostgreSQL` · `Redis` · `GCP Pub/Sub` · `Cloud Run` · `Apigee`
+Distributed Spring Boot service integrating **Ford Pass** and **SAP CRM**. Built a fault-tolerant store-and-forward flow with a PostgreSQL staging store that durably buffers validated records and reconciles to the SAP PO API on recovery via a Cloud Scheduler job — eliminating data loss during downstream outages. Adds Redis caching and event publishing over Pub/Sub.
+`Java` · `Spring Boot` · `PostgreSQL` · `Redis` · `Kafka` · `GCP Pub/Sub` · `Cloud Run` · `Apigee`
 
 **🔹 Ford OUP (Owner Update Portal) — Full-Stack Web App** · *Ford*
 Full-stack portal (**React + Spring Boot**) on a cloud-native backend stack with **BigQuery** integration and analytical views surfacing market-wise analytics for business reporting.
 `React` · `Spring Boot` · `PostgreSQL` · `BigQuery` · `Cloud Run`
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aswinrajsubburaj&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinrajsubburaj&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aswinrajsubburaj&hide_border=true&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aswinrajsubburaj&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=aswinrajsubburaj&bg_color=1a1b27&color=4fb8ff&line=4fb8ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
-</p>
 
 ---
 
