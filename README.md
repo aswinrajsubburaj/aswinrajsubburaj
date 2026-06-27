@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Aswinraj%20S&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20Backend%20Engineer&descSize=20&descAlignY=60" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Aswinraj%20S&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%C2%B7%20Spring%20Boot%20%C2%B7%20Backend%20Engineer&descSize=20&descAlignY=60" alt="header"/>
 
 <p align="center">
   <a href="https://github.com/aswinrajsubburaj">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FB8FF&center=true&vCenter=true&width=600&lines=Backend+Software+Engineer+%40+Ford;Java+%26+Spring+Boot+Specialist;Building+fault-tolerant%2C+event-driven+APIs;Google+Cloud+Certified+%E2%80%94+ACE" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FB8FF&center=true&vCenter=true&width=600&lines=Java+Developer+%40+Ford+Motor+Company;Spring+Boot+%26+Microservices+Specialist;Building+fault-tolerant%2C+event-driven+REST+APIs;Clean+Code+%C2%B7+System+Design+%C2%B7+Backend" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 
 ### 👨‍💻 About Me
 
-Backend-focused **Software Engineer with 2.5 years of experience** building production-grade services in **Java** and **Spring Boot**. At **Ford Motor Company** I design event-driven, fault-tolerant APIs that integrate enterprise systems (SAP CRM, Ford Pass) and deploy to **Google Cloud Run**.
+**Java Developer with 2.5 years of experience** building production-grade backend services in **Java** and **Spring Boot**. At **Ford Motor Company** I design event-driven, fault-tolerant REST APIs that integrate enterprise systems (SAP CRM, Ford Pass) and run on **Google Cloud Run**. I focus on clean, well-tested code, solid system design, and reliable microservices.
 
 - 🔭 Currently building **IMG Digital Services** — a distributed Spring Boot platform on GCP
 - 🌱 Deepening my craft in **System Design**, **Distributed Systems** & **DSA**
@@ -120,6 +120,6 @@ Full-stack portal (**React + Spring Boot**) on a cloud-native backend stack with
 
 ---
 
-<p align="center"><i>Open to backend-focused engineering roles with ownership of complex, high-reliability services.</i></p>
+<p align="center"><i>Open to backend-focused Java engineering roles with ownership of complex, high-reliability services.</i></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer"/>
